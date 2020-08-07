@@ -1,5 +1,5 @@
 {
-    "name": "request-limiter",
+    "name": "@ya_myn/request-limiter",
     "version": "1.0.0",
     "description": "Simple request limiter that allows you to control the number of simultaneous request to any resource",
     "main": "./lib/index.js",
