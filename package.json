@@ -25,6 +25,7 @@
     },
     "homepage": "https://github.com/yamyn/RequestLimiter#readme",
     "dependencies": {
-        "moment": "^2.27.0"
+        "lodash.get": "4.4.2",
+        "moment": "2.27.0"
     }
 }
