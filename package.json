@@ -1,6 +1,6 @@
 {
     "name": "@ya_myn/request-limiter",
-    "version": "1.0.0",
+    "version": "1.3.0",
     "description": "Simple request limiter that allows you to control the number of simultaneous request to any resource",
     "main": "./lib/index.js",
     "directories": {
@@ -23,5 +23,8 @@
     "bugs": {
         "url": "https://github.com/yamyn/RequestLimiter/issues"
     },
-    "homepage": "https://github.com/yamyn/RequestLimiter#readme"
+    "homepage": "https://github.com/yamyn/RequestLimiter#readme",
+    "dependencies": {
+        "node-cache": "5.1.2"
+    }
 }
